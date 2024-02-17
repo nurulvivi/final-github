@@ -1,0 +1,3 @@
+nama : abdullah zaky
+umur : 29 
+pek : developer
